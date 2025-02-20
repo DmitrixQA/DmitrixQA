@@ -47,7 +47,7 @@
 
  ## 📊 GitHub Stats  
 <p align="left">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrixnx&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
-  <img src="https://github-readme-stats.vercel.app/api?username=dmitrixnx&show_icons=true&locale=en" alt="GitHub Stats" />  
-  <img src="https://streak-stats.demolab.com?user=dmitrixnx" alt="GitHub Streak" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dmitrixqa&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=dmitrixqa&show_icons=true&locale=en" alt="GitHub Stats" />  
+  <img src="https://streak-stats.demolab.com?user=dmitrixqa" alt="GitHub Streak" />  
 </p>

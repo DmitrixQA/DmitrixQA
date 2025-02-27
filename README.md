@@ -1,5 +1,5 @@
 # Hi 👋, I'm DMYTRO  
-### Manual QA Engineer  
+### Junior Manual QA Engineer  
 
 🌱 I’m currently learning **Jira, TestRail, SQL, API Testing with Postman**  
 
